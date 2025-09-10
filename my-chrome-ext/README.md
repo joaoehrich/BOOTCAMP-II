@@ -61,4 +61,4 @@ minha-extensao/
 Este projeto está licenciado sob os termos do arquivo (./LICENSE) incluído neste repositório.
 
 ---
-[**[Link para a Landing Page no GitHub Pages]**](https://[seu-usuario].github.io/[seu-repositorio])
+[**[Link para a Landing Page no GitHub Pages]**](https://joaoehrich.github.io/BOOTCAMP-II/])
