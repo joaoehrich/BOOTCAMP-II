@@ -2,8 +2,7 @@
 
 > ["Uma ferramenta simples para gerar e interatividade com o usuário através de cores aplicadas diretamente no seu navegador."]
 
-![Demonstração da Extensão](https://via.placeholder.com/720x400.png?text=Adicione+um+GIF+ou+Screenshot+aqui)
-*<p align="center">Uma breve legenda para a imagem ou GIF acima.</p>*
+![Demonstração da Extensão](https://github.com/user-attachments/assets/95e388f6-fb67-4b16-a352-930d4482c4fb)
 
 ---
 
@@ -14,7 +13,7 @@ Este projeto foi desenvolvido como parte do Desafio de Entrega Inicial do Bootca
 ## ✨ **Funcionalidades Principais**
 
 * **[Funcionalidade 1]:** [Descrição breve do que essa funcionalidade faz. Ex: "Gera um popup com uma apresentação simples"]
-* **[Funcionalidade 2]:**[Descrição: "gera um cor aleatoria e aplica no background do popup e na mensagem de abertura].
+* **[Funcionalidade 2]:**[Descrição: "Gera um cor aleatoria e aplica no background do popup e na mensagem de abertura].
 
 
 ## 🛠️ **Como Instalar e Usar**
